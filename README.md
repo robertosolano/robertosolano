@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Data Analytics in Citi and sometimes do consulting
+### 🌱 I’m currently learning more on Cloud Computing
+### 👯 I’m looking to collaborate on anything data related
+### 🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
 
 <!--
 **robertosolano/robertosolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
