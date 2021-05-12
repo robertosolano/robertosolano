@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Data Analytics in Citi and sometimes do consulting
+### 🔭 I’m currently working on Data Analytics and sometimes do consulting
 ### 🌱 I’m currently learning more on Cloud Computing
 ### 👯 I’m looking to collaborate on anything data related
 ### 🤔 I’m looking for help with ...
