@@ -1,6 +1,6 @@
 Hi there 👋
 - I am a Data Scientist and 3x Cloud Engineer with multi-platform know-how and strong interpersonal skills. More than 14 years of experience in IT Service Management and 9 years working with Big Data/Data Engineering/Business Intelligence. Savvy in Portfolio Management, Product Management and Project Management.
- - 🔭 I’m currently working as a Data Scientist for a US based Insurtech leader company and sometimes consulting.
+ - 🔭 I’m currently working as a Data Scientist for a US based Insurtech company and sometimes do consulting.
  - 🌱 I’m currently learning about Web3 as a student of the Ethereum Developer Program from ETH Kipu and ZKP(Zero Knowledge Proofs) as part of the PSE Core Program Costa Rica; both from the Ethereum Foundation.
  - 📫 How to reach me: robertosolano@duck.com
 
