@@ -8,8 +8,8 @@
 
 | Platform  | Profile Link                           |
 |-----------|----------------------------------------|
-| LinkedIn  | [Your LinkedIn](https://www.linkedin.com/in/robertosolano) |
-| Devfolio  | [Your Devfolio](https://devfolio.co/@robertosolano)         |
+| LinkedIn  | [My LinkedIn](https://www.linkedin.com/in/robertosolano) |
+| Devfolio  | [My Devfolio](https://devfolio.co/@robertosolano)         |
 
 <!--
 **robertosolano/robertosolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
