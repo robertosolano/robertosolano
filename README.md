@@ -3,6 +3,7 @@
  - 🔭 I’m currently working as a Data Scientist for a US based Insurtech company and sometimes do consulting.
  - 🌱 I’m currently learning about Web3 as a student of the Ethereum Developer Program from ETH Kipu and ZKP(Zero Knowledge Proofs) as part of the PSE Core Program Costa Rica; both from the Ethereum Foundation.
  - 📫 How to reach me: robertosolano@duck.com or https://t.me/robertosolanom (Telegram)
+ - [My Profile on Devfolio](https://devfolio.co/projects/service-trust-68fc) 
 
 <!--
 **robertosolano/robertosolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
