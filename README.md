@@ -10,6 +10,7 @@
 |-----------|----------------------------------------|
 | LinkedIn  | [My LinkedIn](https://www.linkedin.com/in/robertosolano) |
 | Devfolio  | [My Devfolio](https://devfolio.co/@robertosolano)         |
+| Acclaim  | [My Acclaim](https://www.credly.com/users/roberto-solano/badges)         |
 
 <!--
 **robertosolano/robertosolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
